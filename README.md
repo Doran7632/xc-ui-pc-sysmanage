@@ -3,7 +3,7 @@
 > xc-ui-pc-sysmanage
 
 ## Build Setup
-添加
+
 
 ``` bash
 # install dependencies
